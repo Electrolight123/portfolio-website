@@ -1,10 +1,5 @@
 # 🌐 Portfolio Website
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Electrolight123/portfolio-website)
-![GitHub repo size](https://img.shields.io/github/repo-size/Electrolight123/portfolio-website)
-![GitHub issues](https://img.shields.io/github/issues/Electrolight123/portfolio-website)
-![GitHub stars](https://img.shields.io/github/stars/Electrolight123/portfolio-website?style=social)
-
 A **fully responsive and animated personal portfolio website** showcasing my work as an **AI Developer & Full-Stack Enthusiast**.  
 This website features **smooth animations, scroll-triggered effects, email integration, and a modern UI**, built entirely with **HTML, CSS, and JavaScript**.
 
