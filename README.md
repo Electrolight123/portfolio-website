@@ -36,7 +36,7 @@ portfolio-website/
 
 ## 🚀 Live Demo
 
-[**View Portfolio Website**](https://yourusername.github.io/portfolio-website/)
+[**View Portfolio Website**](https://abhishek-bala-portfolio.netlify.app/)
 
 ---
 
