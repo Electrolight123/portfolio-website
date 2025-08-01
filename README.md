@@ -20,7 +20,7 @@ This website features **smooth animations, scroll-triggered effects, email integ
 
 ```
 portfolio-website/
-│── assets/            # CV, audio files, favicon
+│── assets/            # CV, audio files
 │── css/
 │   └── style.css       # Main styles
 │── images/
@@ -51,7 +51,7 @@ portfolio-website/
 
 ## 📬 Contact Me
 
-📧 **abhishek.bala@example.com**  
+📧 **Abhishekbala089@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-bala-ba1ab224b) | [GitHub](https://github.com/Electrolight123) | [X](https://x.com/Electrolight18)
 
 ---
